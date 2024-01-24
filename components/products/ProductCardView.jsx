@@ -39,6 +39,4 @@ const ProductCardView = ({ product }) => {
       </TouchableOpacity>
     );
   };
-  
-
 export default ProductCardView
