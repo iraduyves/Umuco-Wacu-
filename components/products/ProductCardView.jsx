@@ -10,7 +10,7 @@ import {ProductDetails} from '../../Screens/ProductDetails/ProductDetails'
 
 const ProductCardView = ({ product }) => {
     const navigation = useNavigation();
-
+jjjfj
     if (!product) {
       return null;
     }
