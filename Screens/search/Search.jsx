@@ -62,4 +62,3 @@ export function Search({ product }) {
     </SafeAreaView>
   );
 }
-rueu
