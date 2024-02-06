@@ -39,13 +39,6 @@ export const Home = () => {
       <View style={Styles.appBarWrapper}>
         <View style={Styles.appBar}>
 
-
-
-
-
-
-
-
           {/* <FontAwesomeIcon icon={faLocationDot} /> */}
           <Ionicons name='location-outline' size={24} />
           <Text style={Styles.location}>Rwanda</Text>
