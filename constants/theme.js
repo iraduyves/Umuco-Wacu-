@@ -6,10 +6,8 @@ const COLORS = {
   primary: "#1F60A9", 
   secondary: "#A4A5A6",
   tertiary: "#FF7754",
-
   gray: "#83829A",
   gray2: "#C1C0C8",
-
   offwhite: "#F3F4F8",
   white: "#FFFFFF",
   black: "#000000",

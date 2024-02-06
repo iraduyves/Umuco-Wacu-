@@ -18,7 +18,7 @@ const AllProducts = () => {
                 <FlatList
                     data={data}
                     renderItem={({ item }) => {
-                        console.log("all productts:", data);
+                        // console.log("all productts:", data);
                         return <ProductCardView product={item} />
                     }}
                     numColumns={2}

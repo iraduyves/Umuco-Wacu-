@@ -4,7 +4,8 @@
       "id": 1,
       "name": "isekuru",
       "image": "https://www.kigalitoday.com/IMG/jpg/imirimo_yakoreshwaga_isekuru_iri_mu_marembera_kuko_haje_imashini.jpg",
-      "description": "Isekuru ikoreshwa mu miryango gakondo nko gusya ibinyampeke mugihe habuze urusyo, cyangwa se kubitegura neza.isekueu nziza iraremereye kugirango itanyerera cyangwa ngo itamanyagurika hejuru, kandi ifite impande ndende kugirango ibuze imyiteguro gusuka iyo uri kuyikora."
+      "description": "Isekuru ikoreshwa mu miryango gakondo nko gusya ibinyampeke mugihe habuze urusyo, cyangwa se kubitegura neza.isekueu nziza iraremereye kugirango itanyerera cyangwa ngo itamanyagurika hejuru, kandi ifite impande ndende kugirango ibuze imyiteguro gusuka iyo uri kuyikora.",
+      "invented": "invented 1823"
     },
     {
       "id": 2,
@@ -44,7 +45,7 @@
     {
       "id": 7,
       "name": "umuvure",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Baskets_%28inkoko%29_-_Rwanda_-_Royal_Museum_for_Central_Africa_-_DSC06584.JPG",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.-NJI8cB5IVauMuEqIg44IwHaEm&pid=Api&P=0&h=220",
       "description": "Ibi bikoresho cyane cyane ibya kinyarwanda byari byiza cyane ko ku bikoresha ntangaruka byagiraga ku buzima bwa muntu. Urugero nk gukoresha urusyo cyangwa isekuru mu gukora ifu, rwose ibi byari umwimerere ariko imashini dukoresha ziraza kudukoraho. Wakibaza iyo imashini isya ibigori ngo yashize akayungiro, ukibaza kajyahe? muyandi magambo turya ibivungukira byako mu byo turya twese tuzi ingaruka zabyo. Buriya ngo ririya bumba rikoze inkono ni umuti, ariko twabisuimbuje amasafuriya, ugasanga isafuriya uko uyoza uyikubaho za sturuwaya ariko zisigaraho udupusiyeri duto udapfa kubonesha amaso tujya twivanga n’ibyo twatetsemo, mbese ibyubu ni nkwiyicire gusa ntamumaro wundi. Harambe gakondo nyarwanda."
     },
     {
@@ -62,18 +63,11 @@
       "invented": "invented 1823"
     },
     {
-      "name": "Ggg",
-      "description": "Ggh",
-      "invented": "Cvv",
-      "image": "file:///var/mobile/Containers/Data/Application/F9B172FE-0C53-413C-B9A6-FB293E283218/Library/Caches/ExponentExperienceData/@anonymous/UmucoWacu-076ca0a9-70ac-4833-ad43-5d91cc57da4a/ImagePicker/4971CF46-2680-4EF1-B5E8-D921A407DDCC.jpg",
+      "name": "Test",
+      "description": "Test",
+      "invented": "Invented 6890",
+      "image": "file:///var/mobile/Containers/Data/Application/F9B172FE-0C53-413C-B9A6-FB293E283218/Library/Caches/ExponentExperienceData/@anonymous/UmucoWacu-076ca0a9-70ac-4833-ad43-5d91cc57da4a/ImagePicker/570798DD-A52E-4D1C-BB56-D56C5DFE3C69.jpg",
       "id": 10
-    },
-    {
-      "name": "Gggg",
-      "description": "Cvvg",
-      "invented": "Vvb",
-      "image": "file:///var/mobile/Containers/Data/Application/F9B172FE-0C53-413C-B9A6-FB293E283218/Library/Caches/ExponentExperienceData/@anonymous/UmucoWacu-076ca0a9-70ac-4833-ad43-5d91cc57da4a/ImagePicker/8B6BB62F-82CB-4066-8B0B-18B391A70BB8.jpg",
-      "id": 11
     }
   ],
   "comments": [

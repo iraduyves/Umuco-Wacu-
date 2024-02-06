@@ -22,7 +22,7 @@ const MostSearched = ({ item }) => {
                     </View>
                     <View style={styles.details}>
                         <Text style={styles.title} numberOfLines={1}>{item?.item?.name}</Text>
-                        <Text style={styles.supplier} numberOfLines={1}>{item?.item?.description}</Text>
+                        <Text style={styles.supplier} numberOfLines={4}>{item?.item?.description}</Text>
                         <Text style={styles.price} >{item?.item?.invented}</Text>
                     </View>
                 </View>

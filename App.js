@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { useFonts } from 'expo-font';
 import * as SplashScreen from "expo-splash-screen"
-import { useCallback } from 'react';
+import { useCallback, useEffect } from 'react';
 import {NavigationContainer} from '@react-navigation/native'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'; 
 import BottomTabNavigation from './Navigations/BottomTabNavigation';
@@ -14,7 +14,7 @@ import AddItem from './Screens/Home/AddItem';
 
 const Stack = createNativeStackNavigator();
 
-export default function App() {
+function App() {
   const [fontsLoaded] = useFonts({
     regular:require("./assets/fonts/Poppins-Regular.ttf"),
     light:require("./assets/fonts/Poppins-Light.ttf"),
@@ -23,6 +23,17 @@ export default function App() {
     extrabold:require("./assets/fonts/Poppins-ExtraBold.ttf"),
     semibold:require("./assets/fonts/Poppins-SemiBold.ttf"),
   })
+
+  useEffect(()=>{
+    
+  })
+
+  useEffect(()=>{
+
+  },[])
+  useEffect(()=>{
+
+  },[fontsLoaded])
 
   const onLayoutRootView =useCallback(async()=>{
     if(fontsLoaded){

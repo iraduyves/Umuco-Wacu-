@@ -2,7 +2,7 @@ import { View, Text } from 'react-native'
 import React,{useEffect,useState} from 'react'
 
 
-const url = 'https://8fe3-41-186-99-254.ngrok-free.app'
+const url = 'https://d89b-196-12-144-113.ngrok-free.app'
 
 const headers = {
   'Content-Type': 'application/json',

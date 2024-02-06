@@ -7,7 +7,7 @@ import { COLORS } from '../../constants';
 
 
 
-const url = 'https://8fe3-41-186-99-254.ngrok-free.app/posts'
+const url = 'https://d89b-196-12-144-113.ngrok-free.app/posts'
 const headers = {
     'Content-Type': 'application/json',
     'Accept': 'application/json',
