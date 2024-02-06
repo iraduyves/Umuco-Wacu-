@@ -44,7 +44,7 @@ export const Home = () => {
 
 
 
-hjhvbkl;jhgfhjklh
+hjhvbkl;jhgfhjkl
 
           {/* <FontAwesomeIcon icon={faLocationDot} /> */}
           <Ionicons name='location-outline' size={24} />
