@@ -44,7 +44,7 @@ export const Home = () => {
           <Text style={Styles.location}>Rwanda</Text>
           <View style={{ alignItems: "flex-end" }}>
             <TouchableOpacity
-   ds
+   d
             >
               <Image source={require('../../assets/images/imagelogo.jpg')} style={{ width: 24, height: 24 }} />
             </TouchableOpacity>
